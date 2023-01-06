@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
@@ -2936,11 +2936,11 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
 </mfgpreviewcolors>
 <errors>
-<approved hash="19,1,31881d24e33693a3"/>
-<approved hash="19,1,5eb917d34941d363"/>
-<approved hash="19,1,123851a104fca025"/>
-<approved hash="19,1,454fe45e5acca598"/>
-<approved hash="19,1,ac547502cac66769"/>
+<approved hash="19,1,c8ae072216e45fe0"/>
+<approved hash="19,1,b7ea38fc754f2a2c"/>
+<approved hash="19,1,027600670a27981c"/>
+<approved hash="19,1,b5de832775004cde"/>
+<approved hash="19,1,9d7e42ae4a8867e7"/>
 </errors>
 </board>
 </drawing>
