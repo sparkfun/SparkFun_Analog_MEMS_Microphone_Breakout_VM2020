@@ -3,40 +3,40 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="16" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="16" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="14" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="11" fill="4" visible="no" active="no"/>
@@ -45,8 +45,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -54,20 +54,20 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="58" name="bCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="6" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="58" name="bCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -3898,6 +3898,34 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <smd name="1" x="0" y="0" dx="0.2" dy="0.2" layer="1" roundness="100" stop="no" cream="no"/>
 <circle x="0" y="0" radius="0.06" width="0.1524" layer="29"/>
 </package>
+<package name="ORDERING_INSTRUCTIONS">
+<description>&lt;h3&gt;Special Ordering Instructions Alert&lt;/h3&gt;
+&lt;p&gt;Indicates that the PCB material, colors, copper weights, and/or thickness are non-standard.&lt;/p&gt;
+&lt;p&gt;(Standard is 1.6mm FR4, 1 oz copper, immersion silver plating, red soldermask, white silkscreen.)&lt;/p&gt;
+&lt;p&gt;Use 0.7" Vector font @ 8% ratio</description>
+<text x="1.27" y="-1.27" size="3.048" layer="51" font="vector" ratio="15" align="top-left">Ordering Instructions:</text>
+<wire x1="0" y1="0" x2="101.6" y2="0" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="0" x2="101.6" y2="-8.89" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="-8.89" x2="101.6" y2="-50.8" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="-50.8" x2="0" y2="-50.8" width="0.2032" layer="51"/>
+<wire x1="0" y1="-50.8" x2="0" y2="-8.89" width="0.2032" layer="51"/>
+<wire x1="0" y1="-8.89" x2="0" y2="0" width="0.2032" layer="51"/>
+<wire x1="0" y1="-8.89" x2="101.6" y2="-8.89" width="0.2032" layer="51"/>
+<text x="1.27" y="-6.35" size="1.778" layer="51" font="vector" align="top-left">(Add these comments when uploading gerbers.)</text>
+</package>
+<package name="PRODUCTION_INSTRUCTIONS">
+<description>&lt;h3&gt;Special Production Instructions Alert&lt;/h3&gt;
+&lt;p&gt;Placeholder for notes on unique production processes, which may include special wash or depaneling instructions.&lt;/p&gt;</description>
+<text x="1.27" y="-1.27" size="3.048" layer="51" font="vector" ratio="15" align="top-left">Production Instructions:</text>
+<wire x1="0" y1="0" x2="101.6" y2="0" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="0" x2="101.6" y2="-8.89" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="-8.89" x2="101.6" y2="-50.8" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="-50.8" x2="0" y2="-50.8" width="0.2032" layer="51"/>
+<wire x1="0" y1="-50.8" x2="0" y2="-8.89" width="0.2032" layer="51"/>
+<wire x1="0" y1="-8.89" x2="0" y2="0" width="0.2032" layer="51"/>
+<wire x1="0" y1="-8.89" x2="101.6" y2="-8.89" width="0.2032" layer="51"/>
+<text x="1.27" y="-6.35" size="1.778" layer="51" font="vector" align="top-left">(Add these comments when uploading gerbers.)</text>
+</package>
 </packages>
 <symbols>
 <symbol name="SFE_LOGO_FLAME">
@@ -7651,6 +7679,17 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="0.762" y1="0.762" x2="-0.762" y2="-0.762" width="0.254" layer="94"/>
 <circle x="0" y="0" radius="1.27" width="0.254" layer="94"/>
 </symbol>
+<symbol name="SPECIAL_INSTRUCTIONS">
+<description>&lt;h3&gt;Special Ordering/Production Instructions Alert&lt;/h3&gt;
+&lt;p&gt;Symbol for special PCB ordering instructions or unique production process warnings.&lt;/p&gt;
+&lt;p&gt;PCB Standard is 1.6mm FR4, 1 oz copper, immersion silver plating, red soldermask, white silkscreen.&lt;/p&gt;
+&lt;p&gt;Unique production processes may include special wash or depaneling instructions.&lt;/p&gt;</description>
+<text x="1.27" y="0.6985" size="1.27" layer="94" font="vector" ratio="20">Special Instructions</text>
+<wire x1="0" y1="0" x2="0" y2="2.54" width="0.254" layer="94"/>
+<wire x1="0" y1="2.54" x2="22.86" y2="2.54" width="0.254" layer="94"/>
+<wire x1="22.86" y1="2.54" x2="22.86" y2="0" width="0.254" layer="94"/>
+<wire x1="22.86" y1="0" x2="0" y2="0" width="0.254" layer="94"/>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="SFE_LOGO_FLAME" prefix="LOGO">
@@ -7861,6 +7900,45 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </device>
 </devices>
 </deviceset>
+<deviceset name="SPECIAL_INSTRUCTIONS" prefix="LOGO">
+<description>&lt;h3&gt;Special Ordering/Production Instructions Alert&lt;/h3&gt;
+&lt;p&gt;Symbol for special PCB ordering instructions or unique production process warnings.&lt;/p&gt;
+&lt;p&gt;&lt;table border=1 cellpadding=1&gt;
+&lt;tr&gt;&lt;th&gt;Ordering Instructions&lt;/th&gt;&lt;th&gt;Production Instructions&lt;/th&gt;
+&lt;tr&gt;&lt;td&gt;
+&lt;p&gt;&lt;b&gt;Types of information that should be added to box:&lt;/b&gt;
+&lt;ul&gt;&lt;li&gt;Copper weight&lt;/li&gt;&lt;li&gt;Soldermask color&lt;/li&gt;&lt;li&gt;Silk color&lt;/li&gt;&lt;li&gt;PCB thickness&lt;/li&gt;&lt;li&gt;Number of layers&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;PCB Standard:&lt;/b&gt;
+&lt;ul&gt;&lt;li&gt;1.6mm FR4&lt;/li&gt;&lt;li&gt;1 oz copper&lt;/li&gt;&lt;li&gt;immersion silver plating&lt;/li&gt;&lt;li&gt;red soldermask&lt;/li&gt;&lt;li&gt;white silkscreen&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;Types of information that should be added to box:&lt;/b&gt;
+&lt;ul&gt;&lt;li&gt;Special wash requirements&lt;/li&gt;&lt;li&gt;Depaneling instructions&lt;/li&gt;&lt;li&gt;Humidification&lt;/li&gt;&lt;li&gt;Glue curing&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Default text settings:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;0.07 inch&lt;/li&gt;
+&lt;li&gt;9% ratio&lt;/li&gt;
+&lt;li&gt;50% line distance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;</description>
+<gates>
+<gate name="G$1" symbol="SPECIAL_INSTRUCTIONS" x="0" y="0"/>
+</gates>
+<devices>
+<device name="-ORDERING" package="ORDERING_INSTRUCTIONS">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="-PRODUCTION" package="PRODUCTION_INSTRUCTIONS">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 <library name="SparkFun-PowerSymbols">
@@ -8021,7 +8099,7 @@ is reflow solder compatible with no sensitivity degradation.</description>
 <technology name="">
 <attribute name="DIGIKEY_PART" value="" constant="no"/>
 <attribute name="MANU_PART" value="VM2020" constant="no"/>
-<attribute name="PROD_ID" value="" constant="no"/>
+<attribute name="PROD_ID" value="IC-17514" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -8766,6 +8844,107 @@ Part Number: HA-522</description>
 <wire x1="3" y1="2.95" x2="4.05" y2="2.95" width="0.2032" layer="21"/>
 <wire x1="4.05" y1="2" x2="4.05" y2="2.95" width="0.2032" layer="21"/>
 </package>
+<package name="1X04_SMD_VERTICAL_COMBO_CENTERED">
+<description>&lt;h3&gt;SMD - 4 Pin Vertical Connector&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:4&lt;/li&gt;
+&lt;li&gt;SMD Pad count:8&lt;/li&gt;
+&lt;li&gt;Pin pitch:0.1"&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;CONN_04&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<wire x1="-5.18" y1="-1.25" x2="-5.18" y2="1.25" width="0.1778" layer="21"/>
+<wire x1="5.18" y1="1.25" x2="5.18" y2="-1.25" width="0.1778" layer="21"/>
+<wire x1="-4.54" y1="-1.25" x2="-5.18" y2="-1.25" width="0.1778" layer="21"/>
+<wire x1="5.18" y1="-1.25" x2="4.51" y2="-1.25" width="0.1778" layer="21"/>
+<wire x1="4.51" y1="1.25" x2="5.18" y2="1.25" width="0.1778" layer="21"/>
+<wire x1="-5.18" y1="1.25" x2="-4.54" y2="1.25" width="0.1778" layer="21"/>
+<wire x1="2.059" y1="-1.29" x2="3.021" y2="-1.29" width="0.1778" layer="21"/>
+<wire x1="2.059" y1="1.25" x2="3.021" y2="1.25" width="0.1778" layer="21"/>
+<wire x1="-0.481" y1="-1.29" x2="0.481" y2="-1.29" width="0.1778" layer="21"/>
+<wire x1="-0.481" y1="1.25" x2="0.481" y2="1.25" width="0.1778" layer="21"/>
+<wire x1="-3.021" y1="-1.29" x2="-2.059" y2="-1.29" width="0.1778" layer="21"/>
+<wire x1="-3.021" y1="1.25" x2="-2.059" y2="1.25" width="0.1778" layer="21"/>
+<smd name="1" x="-3.81" y="1.65" dx="2" dy="1" layer="1" rot="R90" stop="no"/>
+<smd name="3" x="1.27" y="1.65" dx="2" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
+<smd name="4" x="3.81" y="1.652" dx="2" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
+<text x="-4.191" y="2.858" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
+<text x="-4.318" y="-3.616" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
+<polygon width="0.01" layer="1">
+<vertex x="-1.77" y="2.65"/>
+<vertex x="-0.77" y="2.65"/>
+<vertex x="-0.77" y="0.65"/>
+<vertex x="-1.07" y="0.65"/>
+<vertex x="-1.07" y="-0.65"/>
+<vertex x="-0.77" y="-0.65"/>
+<vertex x="-0.77" y="-2.65"/>
+<vertex x="-1.77" y="-2.65"/>
+<vertex x="-1.77" y="-0.65"/>
+<vertex x="-1.47" y="-0.65"/>
+<vertex x="-1.47" y="0.65"/>
+<vertex x="-1.77" y="0.65"/>
+</polygon>
+<rectangle x1="-1.89" y1="-2.76" x2="-0.69" y2="-0.56" layer="29" rot="R180"/>
+<rectangle x1="-1.89" y1="-2.76" x2="-0.69" y2="-0.56" layer="31" rot="R180"/>
+<rectangle x1="-1.87" y1="0.54" x2="-0.67" y2="2.74" layer="29" rot="R180"/>
+<rectangle x1="-1.87" y1="0.54" x2="-0.67" y2="2.74" layer="31" rot="R180"/>
+<polygon width="0.01" layer="1">
+<vertex x="-4.31" y="2.65"/>
+<vertex x="-3.31" y="2.65"/>
+<vertex x="-3.31" y="0.65"/>
+<vertex x="-3.61" y="0.65"/>
+<vertex x="-3.61" y="-0.65"/>
+<vertex x="-3.31" y="-0.65"/>
+<vertex x="-3.31" y="-2.65"/>
+<vertex x="-4.31" y="-2.65"/>
+<vertex x="-4.31" y="-0.65"/>
+<vertex x="-4.01" y="-0.65"/>
+<vertex x="-4.01" y="0.65"/>
+<vertex x="-4.31" y="0.65"/>
+</polygon>
+<rectangle x1="-4.43" y1="-2.76" x2="-3.23" y2="-0.56" layer="29" rot="R180"/>
+<rectangle x1="-4.43" y1="-2.76" x2="-3.23" y2="-0.56" layer="31" rot="R180"/>
+<rectangle x1="-4.41" y1="0.54" x2="-3.21" y2="2.74" layer="29" rot="R180"/>
+<rectangle x1="-4.41" y1="0.54" x2="-3.21" y2="2.74" layer="31" rot="R180"/>
+<polygon width="0.01" layer="1">
+<vertex x="0.78" y="2.65"/>
+<vertex x="1.78" y="2.65"/>
+<vertex x="1.78" y="0.65"/>
+<vertex x="1.48" y="0.65"/>
+<vertex x="1.48" y="-0.65"/>
+<vertex x="1.78" y="-0.65"/>
+<vertex x="1.78" y="-2.65"/>
+<vertex x="0.78" y="-2.65"/>
+<vertex x="0.78" y="-0.65"/>
+<vertex x="1.08" y="-0.65"/>
+<vertex x="1.08" y="0.65"/>
+<vertex x="0.78" y="0.65"/>
+</polygon>
+<rectangle x1="0.66" y1="-2.76" x2="1.86" y2="-0.56" layer="29" rot="R180"/>
+<rectangle x1="0.66" y1="-2.76" x2="1.86" y2="-0.56" layer="31" rot="R180"/>
+<rectangle x1="0.68" y1="0.54" x2="1.88" y2="2.74" layer="29" rot="R180"/>
+<rectangle x1="0.68" y1="0.54" x2="1.88" y2="2.74" layer="31" rot="R180"/>
+<polygon width="0.01" layer="1">
+<vertex x="3.31" y="2.65"/>
+<vertex x="4.31" y="2.65"/>
+<vertex x="4.31" y="0.65"/>
+<vertex x="4.01" y="0.65"/>
+<vertex x="4.01" y="-0.65"/>
+<vertex x="4.31" y="-0.65"/>
+<vertex x="4.31" y="-2.65"/>
+<vertex x="3.31" y="-2.65"/>
+<vertex x="3.31" y="-0.65"/>
+<vertex x="3.61" y="-0.65"/>
+<vertex x="3.61" y="0.65"/>
+<vertex x="3.31" y="0.65"/>
+</polygon>
+<rectangle x1="3.19" y1="-2.76" x2="4.39" y2="-0.56" layer="29" rot="R180"/>
+<rectangle x1="3.19" y1="-2.76" x2="4.39" y2="-0.56" layer="31" rot="R180"/>
+<rectangle x1="3.21" y1="0.54" x2="4.41" y2="2.74" layer="29" rot="R180"/>
+<rectangle x1="3.21" y1="0.54" x2="4.41" y2="2.74" layer="31" rot="R180"/>
+<smd name="2" x="-1.27" y="1.65" dx="2" dy="1" layer="1" rot="R90" stop="no"/>
+</package>
 </packages>
 <symbols>
 <symbol name="CONN_04">
@@ -9120,6 +9299,19 @@ Part Number: HA-522</description>
 </technology>
 </technologies>
 </device>
+<device name="SMD_VERTICAL_MALE" package="1X04_SMD_VERTICAL_COMBO_CENTERED">
+<connects>
+<connect gate="J1" pin="1" pad="1"/>
+<connect gate="J1" pin="2" pad="2"/>
+<connect gate="J1" pin="3" pad="3"/>
+<connect gate="J1" pin="4" pad="4"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="PROD_ID" value="CONN-17242" constant="no"/>
+</technology>
+</technologies>
+</device>
 </devices>
 </deviceset>
 </devicesets>
@@ -9146,15 +9338,16 @@ Part Number: HA-522</description>
 <part name="FD2" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL"/>
 <part name="FD3" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL"/>
 <part name="FD4" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL"/>
-<part name="U$1" library="vm2020" deviceset="VM2020" device=""/>
+<part name="U1" library="vm2020" deviceset="VM2020" device=""/>
 <part name="J1" library="SparkFun-Connectors" deviceset="CONN_04" device="1X04_NO_SILK"/>
 <part name="P+2" library="SparkFun-PowerSymbols" deviceset="VCC" device=""/>
 <part name="GND2" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
+<part name="LOGO4" library="SparkFun-Aesthetics" deviceset="SPECIAL_INSTRUCTIONS" device="-ORDERING"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
-<text x="238.76" y="7.62" size="2.54" layer="94" font="vector" ratio="9">v02</text>
+<text x="238.76" y="7.62" size="2.54" layer="94" font="vector" ratio="9">v10</text>
 <text x="170.434" y="11.43" size="2.54" layer="94" font="vector">Pete Lewis</text>
 <text x="5.08" y="175.26" size="2.1844" layer="97" font="vector" ratio="12" align="top-left">VCC RANGE:
 1.6-3.6V</text>
@@ -9755,9 +9948,9 @@ Part Number: HA-522</description>
 <instance part="FD2" gate="G$1" x="243.84" y="43.18" smashed="yes"/>
 <instance part="FD3" gate="G$1" x="243.84" y="40.64" smashed="yes"/>
 <instance part="FD4" gate="G$1" x="241.3" y="40.64" smashed="yes"/>
-<instance part="U$1" gate="G$1" x="104.14" y="119.38" smashed="yes">
-<attribute name="NAME" x="99.314" y="125.222" size="1.778" layer="95"/>
-<attribute name="VALUE" x="99.314" y="111.76" size="1.778" layer="96"/>
+<instance part="U1" gate="G$1" x="104.14" y="119.38" smashed="yes">
+<attribute name="NAME" x="99.314" y="125.222" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="99.314" y="111.76" size="1.778" layer="96" font="vector"/>
 </instance>
 <instance part="J1" gate="J1" x="167.64" y="116.84" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="172.72" y="109.474" size="1.778" layer="96" font="vector" rot="MR0"/>
@@ -9769,6 +9962,7 @@ Part Number: HA-522</description>
 <instance part="GND2" gate="1" x="160.02" y="109.22" smashed="yes">
 <attribute name="VALUE" x="157.48" y="106.68" size="1.778" layer="96" font="vector"/>
 </instance>
+<instance part="LOGO4" gate="G$1" x="213.36" y="38.1" smashed="yes"/>
 </instances>
 <busses>
 </busses>
@@ -9783,7 +9977,7 @@ Part Number: HA-522</description>
 <wire x1="91.44" y1="114.3" x2="91.44" y2="116.84" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="116.84" x2="93.98" y2="116.84" width="0.1524" layer="91"/>
 <pinref part="GND5" gate="1" pin="GND"/>
-<pinref part="U$1" gate="G$1" pin="GND"/>
+<pinref part="U1" gate="G$1" pin="GND"/>
 </segment>
 <segment>
 <wire x1="160.02" y1="111.76" x2="160.02" y2="114.3" width="0.1524" layer="91"/>
@@ -9797,7 +9991,7 @@ Part Number: HA-522</description>
 <wire x1="91.44" y1="124.46" x2="91.44" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="121.92" x2="91.44" y2="121.92" width="0.1524" layer="91"/>
 <pinref part="P+3" gate="G$1" pin="VCC"/>
-<pinref part="U$1" gate="G$1" pin="VDD"/>
+<pinref part="U1" gate="G$1" pin="VDD"/>
 </segment>
 <segment>
 <wire x1="76.2" y1="121.92" x2="76.2" y2="124.46" width="0.1524" layer="91"/>
@@ -9813,25 +10007,25 @@ Part Number: HA-522</description>
 </net>
 <net name="OUT-" class="0">
 <segment>
-<pinref part="U$1" gate="G$1" pin="OUT-"/>
+<pinref part="U1" gate="G$1" pin="OUT-"/>
 <wire x1="119.38" y1="116.84" x2="116.84" y2="116.84" width="0.1524" layer="91"/>
-<label x="119.38" y="116.84" size="1.27" layer="95" xref="yes"/>
+<label x="119.38" y="116.84" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
 <wire x1="162.56" y1="121.92" x2="157.48" y2="121.92" width="0.1524" layer="91"/>
-<label x="157.48" y="121.92" size="1.27" layer="95" rot="R180" xref="yes"/>
+<label x="157.48" y="121.92" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 <pinref part="J1" gate="J1" pin="4"/>
 </segment>
 </net>
 <net name="OUT+" class="0">
 <segment>
-<pinref part="U$1" gate="G$1" pin="OUT+"/>
+<pinref part="U1" gate="G$1" pin="OUT+"/>
 <wire x1="119.38" y1="121.92" x2="116.84" y2="121.92" width="0.1524" layer="91"/>
-<label x="119.38" y="121.92" size="1.27" layer="95" xref="yes"/>
+<label x="119.38" y="121.92" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
 <wire x1="162.56" y1="119.38" x2="157.48" y2="119.38" width="0.1524" layer="91"/>
-<label x="157.48" y="119.38" size="1.27" layer="95" rot="R180" xref="yes"/>
+<label x="157.48" y="119.38" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 <pinref part="J1" gate="J1" pin="3"/>
 </segment>
 </net>
