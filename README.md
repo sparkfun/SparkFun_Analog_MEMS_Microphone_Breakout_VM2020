@@ -1,7 +1,7 @@
 SparkFun Analog MEMS Microphone Breakout - VM2020
 ========================================
 
-[![SparkFun Analog MEMS Microphone Breakout VM2020](https://cdn.sparkfun.com/assets/parts/1/9/0/2/5/19389-SparkFun_Analog_MEMS_Microphone_Breakout_-_SPH8878LR5H-1-01.jpg)](https://www.sparkfun.com/products/19389)
+[![SparkFun Analog MEMS Microphone Breakout VM2020]()](https://www.sparkfun.com/products/21537)
 
 [*SparkFun Analog MEMS Microphone Breakout VM2020 [BOB-21537]*](https://www.sparkfun.com/products/21537)
 
