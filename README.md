@@ -37,7 +37,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/analog-mems-microphone-breakout---sph8878lr5h-1-hookup-guide)** - Basic hookup guide for the SparkFun MEMS microphone breakout.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/2913)** - Basic hookup guide for the SparkFun MEMS microphone breakout.
 
 Product Versions
 ---------------
