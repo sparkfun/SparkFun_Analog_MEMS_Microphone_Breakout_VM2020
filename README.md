@@ -22,7 +22,8 @@ Repository Contents
 
 Documentation
 --------------
-* **[Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/21537_sfe_analog_MEMS_microphone_VM2020_differential.fzpz)**
+* **[Library](https://github.com/sparkfun/SparkFun_WM8960_Arduino_Library)** - Arduino library for the Stereo Audio Codec Breakout - WM8960 that has an example using a differential microphone (e.g. VM2020).
+* **[Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/21537_sfe_analog_MEMS_microphone_VM2020_differential.fzpz)** - Fritzing diagrams for SparkFun products.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/2913)** - Basic hookup guide for the SparkFun MEMS microphone breakout.
 
 
