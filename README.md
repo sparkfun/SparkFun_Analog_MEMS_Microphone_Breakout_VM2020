@@ -5,28 +5,13 @@ SparkFun Analog MEMS Microphone Breakout - VM2020
 
 [*SparkFun Analog MEMS Microphone Breakout VM2020 [BOB-21537]*](https://www.sparkfun.com/products/21537)
 
-The SparkFun Analog MEMS Microphone Breakout makes it easy to work with the VM2020 analog microphone from Vesper.
+The SparkFun Analog MEMS Microphone Breakout makes it easy to work with the Vesper VM2020 analog microphone. The VM2020 is an ultra-high Acoustic Overload Point (AOP), high dynamic range, differential analog output piezoelectric MEMS microphone. What separates this from other analog MEMS microphones is that it was designed to be used in loud environments. Additionally, this microphone consists of a piezoelectric sensor and circuitry to buffer and amplify the output. It has an acoustic overload point of 152dB SPL for audio capture in loud environments.
 
-The VM2020 is an ultra-high AOP, high dynamic range, differential analog output piezoelectric MEMS microphone.
-This microphone consists of a piezoelectric sensor and circuitry to buffer and amplify the output.
-It has an acoustic overload point of 152dB SPL for audio capture in loud environments. 
-The VM2020 has a small 3.76 mm X 2.95 mm X 1.3 mm package. 
-This microphone is reflow solder compatible with no sensitivity degradation.
+Also note, this low-profile microphone has its port on the bottom side, so the microphone can be mounted flush to the outer surface of your enclosure. This microphone is omnidirectional, which means it does a good job of picking up sound sources from all directions.
 
-Also note, this low profile microphone has its port on the bottom side, so the microphone can be mounted flush to the outer surface of your enclosure. This microphone is omni-directional, which means it does a good job of picking up sound sources from all directions.
+Most microphone breakouts in SparkFun's catalog have an OpAmp which amplifies the signal and has a single-ended output. This microphone breakout is differential and does not have an OpAmp. To connect to the differential output with an Arduino, you will need to amplify the signal to a usable level and ADC with differential inputs. We recommend using the SparkFun WM8960 Audio Codec Breakout with a built-in programmable gain amplifier and ADC.
 
-FEATURES
-* Ultra-high AOP
-* Differential Output
-* Low part-to-part variation
-* High dynamic range
-* Stable performance in all conditions
-* Dust and water resistant to IP57
-
-APPLICATIONS
-* Subwoofers
-* Echo Cancellation
-* Outdoor Applications
+This board is great for applications that require you to measure volume in a loud environment, capture audio when the microphone is next to a speaker, fast Fourier transform analysis of sound at concerts, make your own electronic hearing protection, or create an adaptive filter for your smart speaker. Add the SparkFun VM2020 Analog MEMS Microphone Breakout to your next project!
 
 Repository Contents
 -------------------
@@ -37,7 +22,9 @@ Repository Contents
 
 Documentation
 --------------
+* **[Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/21537_sfe_analog_MEMS_microphone_VM2020_differential.fzpz)**
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/2913)** - Basic hookup guide for the SparkFun MEMS microphone breakout.
+
 
 Product Versions
 ---------------
